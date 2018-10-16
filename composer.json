@@ -1,1 +1,1 @@
-require('examples/index.php');
+require_once 'examples/index.php'
